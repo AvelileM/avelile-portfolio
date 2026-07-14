@@ -5,7 +5,7 @@ import Section from "./ui/Section";
 
 type Errors = { name?: string; email?: string; message?: string };
 
-const CONTACT_EMAIL = "avelile.mnyazana@example.com"; // TODO: replace with real email
+const CONTACT_EMAIL = "aveliled@gmail.com"; 
 
 export default function Contact() {
   const [values, setValues] = useState({ name: "", email: "", message: "" });
