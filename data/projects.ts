@@ -49,4 +49,73 @@ export const projects: Project[] = [
     learnings:
       "Built confidence in analysing time and space complexity, and in explaining my reasoning clearly — a skill as important as the solution itself.",
   },
+// -------
+  {
+    title: "Python Project — RiskLens",
+    type: "Python Project",
+    description:
+      "...",
+    technologies: ["Python", "Algorithms", "Data Structures"],
+    github: "https://github.com/AvelileM/RiskLens.git",
+    learnings:
+      "...",
+  },
+// -------
+  {
+    title: "JavaScript Project — into_the_land",
+    type: "JavaScript Project",
+    description:
+      "....",
+    technologies: ["JavaScript", "VueJS", "NodeJS"],
+    github: "https://github.com/AvelileM/into_the_land.git",
+    learnings:
+      "...",
+  },
+// -------
+  {
+    title: "React Project — JonTech",
+    type: "React Project",
+    description:
+      "...",
+    technologies: ["React", "...", "..."],
+    github: "https://github.com/AvelileM/jontech.git",
+    learnings:
+      "...",
+  },
+// -------
+  {
+    title: "HTML & JavaScript — Algorithm & Data Structure Practice",
+    type: "HTML & JavaScript Project",
+    description:
+      "....",
+    technologies: ["HTML", "JavaScript", "..."],
+    github: "https://github.com/AvelileM/Ubuntu_ID.git",
+    learnings:
+      "...",
+  },
+// -------
+  {
+    title: "Python & Cloud Project — API-Health-Monitor",
+    type: "Python & Cloud Project",
+    description:
+      "...",
+    technologies: ["Python", "Algorithms", "Data Structures"],
+    github: "https://github.com/AvelileM/api-health-monitor.git",
+    learnings:
+      "...",
+  },
+
+// -------
+  {
+    title: "Python Project — clinic-booking",
+    type: "Python Project",
+    description:
+      "...",
+    technologies: ["Python", "Algorithms", "Data Structures"],
+    github: "https://github.com/AvelileM/clinic-booking.git",
+    learnings:
+      "...",
+  },
+
+
 ];
